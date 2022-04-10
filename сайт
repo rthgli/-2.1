@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <meta charset="utf-8">
+      <title>Ли Эдуард</title>
+</head>
+<body>
+    <header><a href="#">Главная</a>
+        <a href="pages/about.html">Обо мне</a>
+        <a href="pages/experience.html">Опыт работы</a>
+        <a href="pages/education.html">Образование</a>
+        <a href="pages/hobby.html">Хобби</a>
+        <a href="pages/developer.html">Как я становился разработчиком</a>
+    </header>
+
+    <main>
+        <h1 class="subtitle" id="about">Коротко обо мне</h1>
+        <img src="images/photo.png" alt="my photo" width="300">
+        <p>Меня зовут Эдуард. Я учусь на <strong>наладчика станков ЧПУ</strong>. Решил получше узнать смежную профессию</p>
+        <p>Пока я только учусь на 4 курсе техникума, но надеюсь получить еще и высшее</p>
+        <p>Трудолюбивый, честный и просто парень думающий, это все обо мне</p>
+        <p>Надеюсь мы сработаемся</p>
+    </main>
+    <footer>
+        <h3 class="subtitle" id="about"> Контанты </h3>
+        <ul>
+            <li>
+                <a href="liedvardodelaporda@gmail.com">liedvardodelaporda@gmail.com</a>
+            </li>
+            <li>
+            <span>Мой номер телефона - 5 555 555 55 55</span>
+            </li>
+            <li>
+                <a href="https://vk.com/korochli">Моя страница ВК</a>
+            </li>
+            <span>&copy;&nbsp;Skillfactory</span>
+        </ul>
+    </footer>
+</body>
+</html>
